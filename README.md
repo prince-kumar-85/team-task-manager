@@ -10,8 +10,8 @@ A full-stack web application where users can create projects, assign tasks, and 
 
 # 🚀 Live Demo
 
-👉 Frontend: `https://your-frontend-url`
-👉 Backend: `https://your-backend-url`
+👉 Frontend: `https://team-task-manager-kb9d.vercel.app/`
+👉 Backend: `https://team-task-manager-1-23sr.onrender.com`
 
 ---
 
