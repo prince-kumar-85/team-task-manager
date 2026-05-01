@@ -29,7 +29,7 @@ export default function Dashboard() {
     }
   };
 
-  // ✅ Fetch Tasks
+  //  Fetch Tasks
   const fetchTasks = async () => {
     try {
       const res = await API.get("/tasks");
@@ -39,7 +39,7 @@ export default function Dashboard() {
     }
   };
 
-  // ✅ Fetch Projects
+  //  Fetch Projects
   const fetchProjects = async () => {
     try {
       const res = await API.get("/projects");
@@ -49,7 +49,7 @@ export default function Dashboard() {
     }
   };
 
-  // ✅ Fetch Users
+  // Fetch Users
   const fetchUsers = async () => {
     try {
       const res = await API.get("/auth/users");
